@@ -52,7 +52,7 @@
     "url": "https://github.com/xazab/xazabcore-p2p.git"
   },
   "dependencies": {
-    "@xazab/xazabcore-lib": "https://github.com/xazab/xazabcore-lib.git",
+    "@xazab/xazabcore-lib": "^0.18.12",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^1.2.6"
